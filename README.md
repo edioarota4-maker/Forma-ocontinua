@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+FORMAÇÃO CONTÍNUA
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
@@ -181,9 +180,9 @@
 </body>
 </html>
 
-<a href="https://wa.me/258847275323?text=Olá,%20bom%20dia.%0AGostaria%20de%20obter%20informações%20sobre%20formações,%20parcerias%20institucionais%20ou%20apoio%20a%20projetos%20de%20capacitação%20técnica%20em%20saúde.%0AFico%20no%20aguardo.%20Obrigado(a)."
+<a href="https://wa.me/258847275323?text=Olá.%0AGostaria%20de%20obter%20informações%20sobre%20formações,%20parcerias%20institucionais%20ou%20apoio%20a%20projetos%20de%20capacitação%20técnica%20em%20saúde.%0AFico%20no%20aguardo.%20Obrigado(a)."
    target="_blank"
    style="background:#1d6fa3;color:#fff;padding:14px 28px;
    text-decoration:none;border-radius:4px;font-size:1.05em;margin:5px;display:inline-block;">
-   WhatsApp – Parcerias & Financiamento
+   WhatsApp – CLICK AQUI 
 </a>
