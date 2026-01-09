@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Edio la Cruz | Capacitação Técnica</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --primary: #0a4d68;
+            --secondary: #088395;
+            --accent: #05bfdb;
+            --bg: #f4f6f8;
+            --text: #1e293b;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Segoe UI", Tahoma, sans-serif;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+        }
+
+        header h2 {
+            font-weight: 400;
+            opacity: 0.95;
+        }
+
+        header p {
+            margin-top: 20px;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+
+        section {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+        }
+
+        h3 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            font-size: 1.6em;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        ul li {
+            padding: 10px 0;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        ul li:last-child {
+            border-bottom: none;
+        }
+
+        .areas li::before {
+            content: "✔ ";
+            color: var(--accent);
+            font-weight: bold;
+        }
+
+        .contact p {
+            margin: 10px 0;
+            font-size: 1.05em;
+        }
+
+        footer {
+            background: #0f172a;
+            color: #cbd5f5;
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 2.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Edio la Cruz</h1>
+    <h2>Capacitação Técnica</h2>
+    <p>“Aprender nunca termina. Evoluir é uma escolha diária.”</p>
+</header>
+
+<section>
+    <div class="card">
+        <h3>Sobre</h3>
+        <p>
+            Profissional focado em <strong>formações contínuas</strong>, com ênfase em
+            <strong>capacitação técnica</strong>, acreditando que a atualização constante
+            de competências é essencial para a excelência profissional e institucional.
+            Comprometido com a aprendizagem prática, responsabilidade e melhoria contínua.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Áreas de Capacitação</h3>
+        <ul class="areas">
+            <li>Cuidados de Primeiros Socorros</li>
+            <li>Suporte Básico de Vida (SBV)</li>
+            <li>Atendimento Inicial em Situações de Emergência</li>
+            <li>Prevenção de Acidentes e Riscos</li>
+            <li>Segurança e Saúde no Ambiente de Trabalho</li>
+            <li>Noções de Enfermagem e Assistência Básica</li>
+            <li>Higiene, Biossegurança e Controle de Infecções</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Formações & Capacitações</h3>
+        <p>
+            Participação contínua em programas de capacitação técnica,
+            com foco no desenvolvimento de competências práticas, resposta
+            eficiente a situações críticas e aplicação de boas práticas
+            profissionais em saúde e segurança.
+        </p>
+        <ul>
+            <li>Capacitação Técnica Profissional – Formação Contínua</li>
+            <li>Atualização Técnica e Operacional – Curso de Aperfeiçoamento</li>
+            <li>Formação Contínua em Competências Profissionais</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Objetivo Profissional</h3>
+        <p>
+            Aplicar conhecimentos adquiridos em formações contínuas para
+            contribuir de forma responsável, eficaz e humana na promoção
+            da saúde, segurança e bem-estar em contextos profissionais e comunitários.
+        </p>
+    </div>
+
+    <div class="card contact">
+        <h3>Contacto</h3>
+        <p>📧 Email: <strong>Edioarota4@gmail.com</strong></p>
+        <p>📱 WhatsApp: <strong>+258 84 727 5334</strong></p>
+        <p>📱 Chamada: <strong>+258 87 647 7362</strong></p>
+    </div>
+</section>
+
+<footer>
+    © 2026 • Edio la Cruz • Capacitação Técnica
+</footer>
+
+</body>
+</html>
+
+<a href="https://wa.me/258847275323?text=Olá,%20bom%20dia.%0AGostaria%20de%20obter%20informações%20sobre%20formações,%20parcerias%20institucionais%20ou%20apoio%20a%20projetos%20de%20capacitação%20técnica%20em%20saúde.%0AFico%20no%20aguardo.%20Obrigado(a)."
+   target="_blank"
+   style="background:#1d6fa3;color:#fff;padding:14px 28px;
+   text-decoration:none;border-radius:4px;font-size:1.05em;margin:5px;display:inline-block;">
+   WhatsApp – Parcerias & Financiamento
+</a>
